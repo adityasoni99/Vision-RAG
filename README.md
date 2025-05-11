@@ -27,7 +27,7 @@ Follow these steps to set up and run the application:
 1.  **Clone and Navigate to Directory** :
     ```bash
     git clone https://github.com/adityasoni99/Vision-RAG.git
-    cd awesome-llm-apps/rag_tutorials/vision_rag_agent
+    cd Vision-RAG
     ```
 
 2.  **Install Dependencies**:
