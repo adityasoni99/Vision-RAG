@@ -1,4 +1,4 @@
- # Vision RAG with Cohere Embed-4 🖼️
+ # Vision RAG with Cohere Embed-4 
 
 A powerful visual Retrieval-Augmented Generation (RAG) system that utilizes Cohere's state-of-the-art Embed-4 model for multimodal embedding and Google's efficient Gemini 2.5 Flash model for answering questions about images and PDF pages.
 
