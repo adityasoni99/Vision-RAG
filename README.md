@@ -88,6 +88,9 @@ The application follows a two-stage RAG process:
 - Build and query visual knowledge bases (from images and PDFs) using natural language.
 - Understand the content of various complex visual documents, including multi-page reports.
 
+  ![ezgif com-cut](https://github.com/user-attachments/assets/53914b14-1654-4d39-b3ff-7e0a0c0c84f5)
+
+
 ## Note
 
 - Image and PDF processing (page rendering + embedding) can take time, especially for many items or large files. Sample images are cached after the first load; PDF processing currently happens on each upload within a session.
